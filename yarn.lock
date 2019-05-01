@@ -2,6 +2,9 @@
 # yarn lockfile v1
 
 
+"declaration-test@file:./node_modules/declaration-test/":
+  version "1.0.0"
+
 typescript@^3.4.5:
   version "3.4.5"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.4.5.tgz#2d2618d10bb566572b8d7aad5180d84257d70a99"
